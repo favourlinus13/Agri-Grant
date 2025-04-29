@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/mac/Documents/root/Agri-Grant/contracts/AgriGrantSimpleDistribution.sol": {
+      "lastModificationDate": 1745858866479,
+      "contentHash": "0cc235a2be487d595dbfb995937de305",
+      "sourceName": "contracts/AgriGrantSimpleDistribution.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "AgriGrantSimpleDistribution"
+      ]
+    }
+  }
+}
